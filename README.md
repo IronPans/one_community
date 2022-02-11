@@ -13,6 +13,7 @@
 
 - [滴答是什么？](#滴答是什么)
 - [滴答功能](#滴答功能)
+- [功能预览](#功能预览)
 
 ## 滴答是什么?
 
@@ -28,9 +29,9 @@
 - 在线工具：JSON格式化工具、代码美化工具、代码压缩工具、JS正则表达式、二维码生成、在线Markdown编辑器和计算器
 - 前端导航
 
-## 示例图
+## 功能预览
 
-![dida-image1](https://user-images.githubusercontent.com/21237131/153531394-2b4a30c6-6e85-4427-b531-0ab9d7dcae1f.png)
+<img src="https://user-images.githubusercontent.com/21237131/153531394-2b4a30c6-6e85-4427-b531-0ab9d7dcae1f.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153575933-388acb7f-623b-4603-b8bc-8f15957c2e38.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153575941-03df514f-9910-4cf8-99de-0471f007b51d.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153576411-a3482496-67f6-47e0-bcf2-9f831ba25815.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153576574-ad70a9e7-4fd4-4a87-a93c-216e4bcc2430.png" width="300" /> 
 
 ## 问题反馈
 
