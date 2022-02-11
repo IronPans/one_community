@@ -32,4 +32,4 @@
 
 ![dida-image1](https://user-images.githubusercontent.com/21237131/153531394-2b4a30c6-6e85-4427-b531-0ab9d7dcae1f.png)
 
-**注：软件和文章还处于更新迭代阶段，欢迎指出问题！**
+**注：软件和文章还处于更新迭代阶段，欢迎提意见和指出问题！**
