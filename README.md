@@ -6,7 +6,7 @@
 
 ## 下载:
 
-* [Latest release](https://github.com/IronPans/dida_centre/releases/tag/v0.0.10)
+* [Latest release](https://github.com/IronPans/dida_centre/releases/tag/v1.0.0-beta.0)
 
 
 ## 内容
@@ -31,5 +31,9 @@
 ## 示例图
 
 ![dida-image1](https://user-images.githubusercontent.com/21237131/153531394-2b4a30c6-6e85-4427-b531-0ab9d7dcae1f.png)
+
+## 问题反馈
+
+[反馈建议](https://github.com/IronPans/dida_centre/issues)
 
 **注：软件和文章还处于更新迭代阶段，欢迎提意见和指出问题！**
