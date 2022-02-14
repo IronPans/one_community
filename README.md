@@ -6,7 +6,7 @@
 
 ## 下载:
 
-* [Latest release](https://github.com/IronPans/dida_centre/releases/tag/v1.0.0-beta.0)
+* [Latest release](https://github.com/IronPans/dida_centre/releases/tag/v0.0.11-beta.0)
 
 
 ## 内容
