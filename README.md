@@ -14,6 +14,7 @@
 - [滴答是什么？](#滴答是什么)
 - [滴答功能](#滴答功能)
 - [功能预览](#功能预览)
+- [后续功能计划](#后续功能计划)
 
 ## 滴答是什么?
 
@@ -32,6 +33,13 @@
 ## 功能预览
 
 <img src="https://user-images.githubusercontent.com/21237131/153531394-2b4a30c6-6e85-4427-b531-0ab9d7dcae1f.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153575933-388acb7f-623b-4603-b8bc-8f15957c2e38.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153575941-03df514f-9910-4cf8-99de-0471f007b51d.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153576411-a3482496-67f6-47e0-bcf2-9f831ba25815.png" width="300" /> <img src="https://user-images.githubusercontent.com/21237131/153576574-ad70a9e7-4fd4-4a87-a93c-216e4bcc2430.png" width="300" /> 
+
+## 后续功能计划
+
+后续计划主要是发布稳定版本、维护更新文章，同时想打算增加如下功能：
+- 离线化
+- 插件模式
+- 更多常用工具
 
 ## 问题反馈
 
